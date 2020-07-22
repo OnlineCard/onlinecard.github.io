@@ -11,7 +11,7 @@ layout: default
 
   </head>
   <body>
-    <div class="container-lg px-3 my-5 markdown-body">
+    <div>
       
    <img src="https://i.imgur.com/O4UiucR.png" usemap="#image-map" />
 
