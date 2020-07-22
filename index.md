@@ -1,21 +1,9 @@
 ---
 layout: default
 ---
+   <img src="https://i.imgur.com/O4UiucR.png" usemap="#map" />
 
-
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  </head>
-  <body>
-    <div>
-      
-   <img src="https://i.imgur.com/O4UiucR.png" usemap="#image-map" />
-
-<map name="image-map">
+<map name="map">
     <area target="" alt="" title="" href="https://api.whatsapp.com/send?phone=351912140344&amp;text=Ol%C3%A1%20Marcelo%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20servi%C3%A7os%20da%20Century%2021." coords="118,1435,82" shape="circle" />
     <area target="" alt="" title="" href="https://www.facebook.com/marcelo.aiello.7906" coords="330,1437,82" shape="circle" />
     <area target="" alt="" title="" href="https://goo.gl/maps/HmfSbn1cZpPcGfmH9" coords="538,1437,84" shape="circle" />
@@ -25,12 +13,9 @@ layout: default
 </map>
 
       
-    </div>
 	
-  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-	<script type="text/javascript" src="https://raw.githubusercontent.com/davidjbradshaw/imagemap-resizer/master/js/imageMapResizer.min.js"></script>
-	<script type="text/javascript">$('map').imageMapResize();</script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script type="text/javascript" src="https://raw.githubusercontent.com/davidjbradshaw/imagemap-resizer/master/js/imageMapResizer.min.js"></script>
+<script type="text/javascript">$('map').imageMapResize();</script>
   
   
-  </body>
-</html>
