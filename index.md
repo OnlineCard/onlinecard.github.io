@@ -17,7 +17,9 @@ layout: default
       
 	
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+
 <script type="text/javascript" src="https://raw.githubusercontent.com/davidjbradshaw/imagemap-resizer/master/js/imageMapResizer.min.js"></script>
+
 <script type="text/javascript">$('map').imageMapResize();</script>
   
   
