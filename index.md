@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
-   <img src="https://i.imgur.com/O4UiucR.png" usemap="#map" />
+
+<img src="https://i.imgur.com/O4UiucR.png" usemap="#map" />
+
 
 <map name="map">
     <area target="" alt="" title="" href="https://api.whatsapp.com/send?phone=351912140344&amp;text=Ol%C3%A1%20Marcelo%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20servi%C3%A7os%20da%20Century%2021." coords="118,1435,82" shape="circle" />
